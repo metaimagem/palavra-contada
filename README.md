@@ -10,7 +10,7 @@ He received a master's degree in Communication, Image and Information from UFF i
 He was a consultant to the National Research Network in 2010 to diagnose the state of the art of digitization of collections and contents in the MinC system institutions. He concluded his PhD in Linguistics by UFRJ in 2015, showing that there are many ways of developing mathematical thinking. School belief in using algorithms as the only form of correct resolution prevents the perception of mathematics as a discursive and socially diverse practice. Such diversity can be observed in the various linguistically documented numerical systems.
 
 
-the Palavra Contada Project (counting word) 
+Palavra Contada Project (counting word) 
 
 The project aims to build an open web platform for learning math through the construction of narratives. The central challenge is to realize that mathematics is a cultural practice done with and by language.
 
